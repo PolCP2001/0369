@@ -1,0 +1,17 @@
+site_name: Projecte 1 - Sprint 2
+nav:
+  - Home: index.md
+  - Fitxers importants: imp_files.md
+  - Gestió d'usuaris: user_gest.md
+  - Gestió de processos: proc_gest.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
